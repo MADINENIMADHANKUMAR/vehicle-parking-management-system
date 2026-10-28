@@ -1,0 +1,6 @@
+cd /d "C:\Users\madha\Downloads\Web Technology\IA3\server"
+npm run dev
+
+
+cd /d "C:\Users\madha\Downloads\Web Technology\IA3\client"
+npm run dev
